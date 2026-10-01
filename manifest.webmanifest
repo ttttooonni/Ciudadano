@@ -1,0 +1,15 @@
+{
+  "id": "./",
+  "name": "Ciudadano · Barbate 360º",
+  "short_name": "Ciudadano",
+  "description": "Información pública, proyectos y seguimiento ciudadano de Barbate.",
+  "lang": "es",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f7f7",
+  "theme_color": "#142b3a",
+  "icons": [
+    {"src":"./icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
